@@ -118,7 +118,6 @@
 
 <script>
 import domtoimage from 'dom-to-image';
-const FileSaver = require('file-saver');
 
 export default {
     name:'pornhub',
