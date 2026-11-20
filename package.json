@@ -29,7 +29,9 @@
   },
   "overrides": {
     "node-forge": "1.4.3",
-    "js-yaml": "3.15.2"
+    "js-yaml": "3.15.2",
+    "compression": "1.8.2",
+    "fsevents": "1.2.13"
   },
   "eslintConfig": {
     "root": true,
